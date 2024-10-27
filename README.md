@@ -27,7 +27,7 @@ I'm a software development student based in Montreal, Canada.
   <img src="https://cdn.simpleicons.org/oracle/F80000" height="40" alt="oracle logo"  />
 </div>
 
-You are the visitor number
+
 ![Visitor Count](https://profile-counter.glitch.me/{raphaelsrcunha}/count.svg)
 
 <!--
