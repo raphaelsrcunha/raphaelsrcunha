@@ -27,6 +27,7 @@ I'm a software development student based in Montreal, Canada.
   <img src="https://cdn.simpleicons.org/oracle/F80000" height="40" alt="oracle logo"  />
 </div>
 
+![Visitor Count](https://profile-counter.glitch.me/{raphaelsrcunha}/count.svg)
 
 <!--
 **raphaelsrcunha/raphaelsrcunha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
